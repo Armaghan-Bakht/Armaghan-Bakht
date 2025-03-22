@@ -20,18 +20,7 @@
 
 ## ☕ Support Me:
 <div> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></div>
-
-
-
-
-
-
-
-
-
-
-
-
+<br/>
 
 
 
