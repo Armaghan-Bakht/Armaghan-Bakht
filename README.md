@@ -1,5 +1,23 @@
+```md
 # 💫 About Me:
-🔨 I'm currently working on MERN Stack projects.<br>🏢 I work at Funsol Technologies.<br>🚀 I'm a tech enthusiast & MERN Stack Developer.<br>💻 I love coding & building scalable applications.<br>☕ Tea lover & night coder.<br>📚 I'm currently strengthening my expertise in advanced Node.js & API security.<br>🤝 I'm open to collaborating on backend-heavy projects.<br>⚡ Fun fact: I’m funny... at least I think I am! 😆
+🔨 I'm currently working on MERN Stack projects.  
+🏢 I work at Funsol Technologies.  
+🚀 I'm a tech enthusiast & MERN Stack Developer.  
+💻 I love coding & building scalable applications.  
+☕ Tea lover & night coder.  
+📚 I'm currently strengthening my expertise in advanced Node.js & API security.  
+🤝 I'm open to collaborating on backend-heavy projects.  
+⚡ Fun fact: I’m funny... at least I think I am! 😆  
+
+## 🌍 Location:
+📍 Hometown: Balakot, Mansehra  
+📍 Current Location: Islamabad
+
+## 🎮 Hobbies:
+- 🎮 Favorite PC Game: Call of Duty
+- 🎮 Favorite Mobile Game: PUBG Mobile  
+- 🏐 Favorite Physical Game: Volleyball  
+```
 
 
 ## 🌐 Socials:
