@@ -1,4 +1,4 @@
-```md
+
 # 💫 About Me:
 🔨 I'm currently working on MERN Stack projects.  
 🏢 I work at Funsol Technologies.  
@@ -17,7 +17,7 @@
 - 🎮 Favorite PC Game: Call of Duty
 - 🎮 Favorite Mobile Game: PUBG Mobile  
 - 🏐 Favorite Physical Game: Volleyball  
-```
+
 
 
 ## 🌐 Socials:
