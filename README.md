@@ -21,8 +21,8 @@
 ## ☕ Support Me:
 <div> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></div>
 <br/>
-
-
+<br/>
+<br/>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/your_username) 
