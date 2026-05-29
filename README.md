@@ -1,58 +1,144 @@
+# Hi, I'm Armaghan Bakht 👋
 
-# 💫 About Me:
-🔨 I'm currently working on MERN Stack projects.  
-🏢 I work at Funsol Technologies.  
-🚀 I'm a tech enthusiast & MERN Stack Developer.  
-💻 I love coding & building scalable applications.  
-☕ Tea lover & night coder.  
-📚 I'm currently strengthening my expertise in advanced Node.js & API security.  
-🤝 I'm open to collaborating on backend-heavy projects.  
-⚡ Fun fact: I’m funny... at least I think I am! 😆  
+### MERN Stack Developer | HTML5 Playable Ads Developer | Frontend Engineer
 
-## 🌍 Location:
-📍 Hometown: Balakot, Mansehra  
-📍 Current Location: Islamabad
+Passionate MERN Stack Developer and HTML5 Playable Ads Developer with hands-on experience in building scalable web applications, interactive ad experiences, and modern user interfaces.
 
-## 🎮 Hobbies:
-- 🎮 Favorite PC Game: Call of Duty
--  📱 Favorite Mobile Game: PUBG Mobile  
-- 🏐 Favorite Physical Game: Volleyball  
+Experienced in developing high-performance playable ads for platforms like AppLovin and Mintegral, alongside full-stack MERN applications focused on performance, responsiveness, and user engagement.
 
-## ☕ Support Me:
-<div> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></div>
-<br/>
-<br/>
-<br/>
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100074652590082) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/your_username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armaghan-bakht-92bb862b5/) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://www.pinterest.com/armaghanbakht) 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@armaghanbakht) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/armaghanbakht) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:armaghanbakht7@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
- ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
-
- 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Armaghan-Bakht&theme=dark&hide_border=false)![](https://github-readme-stats.vercel.app/api?username=Armaghan-Bakht&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Armaghan-Bakht&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Armaghan-Bakht&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+Currently working at Funsol Technologies and continuously improving expertise in backend architecture, API security, and advanced frontend experiences.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Armaghan-Bakht&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+* 💻 MERN Stack Developer with frontend & backend experience
+* 🎮 HTML5 Playable Ads Developer for mobile games & apps
+* ⚡ Specialized in responsive UI/UX and interactive experiences
+* 🔐 Interested in API Security & scalable backend systems
+* 🎯 Focused on performance optimization and clean architecture
+* 🤝 Open to collaboration on web applications & playable ads projects
+* 📍 Based in Islamabad, Pakistan
+
+---
+
+# 🌐 Portfolio
+
+### Developer Portfolio
+
+* https://armaghan-bakht.vercel.app
+
+---
+
+# 💼 Experience
+
+### Funsol Technologies — *HTML5 Playable Ads Artist | Frontend Developer*
+
+**Mar 2025 – Present**
+
+* Developed HTML5 playable ads for mobile games & applications
+* Optimized creatives for platforms like AppLovin & Mintegral
+* Built interactive ad experiences with smooth animations
+* Collaborated with marketing & creative teams on performance-focused campaigns
+
+---
+
+### Solushyfy Pvt Ltd — *MERN Stack Developer*
+
+**Oct 2024 – Mar 2025**
+
+* Worked on frontend & backend development for CMS-based applications
+* Built reusable UI components and API integrations
+* Improved application performance and user experience
+
+---
+
+### Petalnex Pvt Ltd — *MERN Stack Developer*
+
+**Feb 2024 – Oct 2024**
+
+* Worked on company projects using MERN Stack technologies
+* Focused mainly on frontend development and UI implementation
+* Collaborated with senior developers on real-world web applications
+
+---
+
+# 💻 Tech Stack
+
+### Frontend Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge\&logo=redux\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge\&logo=framer\&logoColor=blue)
+
+---
+
+### Backend Development
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge\&logo=express\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
+
+---
+
+### Playable Ads & Creative Development
+
+![AppLovin](https://img.shields.io/badge/AppLovin-black?style=for-the-badge)
+![Mintegral](https://img.shields.io/badge/Mintegral-FF6B00?style=for-the-badge)
+![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge\&logo=googleads\&logoColor=white)
+![TikTok Ads](https://img.shields.io/badge/TikTok_Ads-000000?style=for-the-badge\&logo=tiktok\&logoColor=white)
+
+---
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/armaghan-bakht-92bb862b5/)
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://www.facebook.com/profile.php?id=100074652590082)
+
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge\&logo=tiktok\&logoColor=white)](https://www.tiktok.com/@armaghanbakht)
+
+[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge\&logo=pinterest\&logoColor=white)](https://www.pinterest.com/armaghanbakht)
+
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/armaghanbakht)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:armaghanbakht313@gmail.com)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://nirzak-streak-stats.vercel.app/?user=Armaghan-Bakht\&theme=dark\&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api?username=Armaghan-Bakht\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Armaghan-Bakht\&theme=dark\&hide_border=false\&layout=compact)
+
+---
+
+# 🏆 GitHub Achievements
+
+![](https://github-profile-trophy.vercel.app/?username=Armaghan-Bakht\&theme=radical\&no-frame=true\&no-bg=true\&margin-w=8)
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Armaghan-Bakht&icon=5&color=12" />
+</p>
