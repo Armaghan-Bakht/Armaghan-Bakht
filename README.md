@@ -108,37 +108,6 @@ Currently working at Funsol Technologies and continuously improving expertise in
 ---
 
 # 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/armaghan-bakht-92bb862b5/)
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://www.facebook.com/profile.php?id=100074652590082)
-
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge\&logo=tiktok\&logoColor=white)](https://www.tiktok.com/@armaghanbakht)
-
-[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge\&logo=pinterest\&logoColor=white)](https://www.pinterest.com/armaghanbakht)
-
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/armaghanbakht)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:armaghanbakht313@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armaghan-bakht-92bb862b5/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100074652590082) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armaghanbakht313@gmail.com)
 
 ---
-
-# 📊 GitHub Stats
-
-![](https://nirzak-streak-stats.vercel.app/?user=Armaghan-Bakht\&theme=dark\&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api?username=Armaghan-Bakht\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Armaghan-Bakht\&theme=dark\&hide_border=false\&layout=compact)
-
----
-
-# 🏆 GitHub Achievements
-
-![](https://github-profile-trophy.vercel.app/?username=Armaghan-Bakht\&theme=radical\&no-frame=true\&no-bg=true\&margin-w=8)
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Armaghan-Bakht&icon=5&color=12" />
-</p>
