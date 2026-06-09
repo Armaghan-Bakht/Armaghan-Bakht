@@ -1,8 +1,8 @@
 # Hi, I'm Armaghan Bakht 👋
 
-### MERN Stack Developer | HTML5 Playable Ads Developer | Frontend Engineer
+### Full Stack Developer | HTML5 Playable Ads Developer | Frontend Engineer
 
-Passionate MERN Stack Developer and HTML5 Playable Ads Developer with hands-on experience in building scalable web applications, interactive ad experiences, and modern user interfaces.
+Passionate Full Stack Developer and HTML5 Playable Ads Developer with hands-on experience in building scalable web applications, interactive ad experiences, and modern user interfaces.
 
 Experienced in developing high-performance playable ads for platforms like AppLovin and Mintegral, alongside full-stack MERN applications focused on performance, responsiveness, and user engagement.
 
@@ -12,7 +12,7 @@ Currently working at Funsol Technologies and continuously improving expertise in
 
 # 🚀 About Me
 
-* 💻 MERN Stack Developer with frontend & backend experience
+* 💻 Full Stack Developer with frontend & backend experience
 * 🎮 HTML5 Playable Ads Developer for mobile games & apps
 * ⚡ Specialized in responsive UI/UX and interactive experiences
 * 🔐 Interested in API Security & scalable backend systems
@@ -43,7 +43,7 @@ Currently working at Funsol Technologies and continuously improving expertise in
 
 ---
 
-### Solushyfy Pvt Ltd — *MERN Stack Developer*
+### Solushyfy Pvt Ltd — *Full Stack Developer*
 
 **Oct 2024 – Mar 2025**
 
