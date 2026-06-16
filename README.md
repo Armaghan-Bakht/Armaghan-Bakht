@@ -32,7 +32,7 @@ Currently working at Funsol Technologies and continuously improving expertise in
 
 # 💼 Experience
 
-### Funsol Technologies — *HTML5 Playable Ads Artist | Frontend Developer*
+### Funsol Technologies — *HTML5 Playable Ads Artist | Full Stack Developer*
 
 **Mar 2025 – Present**
 
